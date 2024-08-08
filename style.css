@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  color: #ffffff;
+  background: #3498db;
+  border-radius: 30px;
+  padding: 10px;
+}
+
+#dez {
+  width: 300px;
+  height: 200px;
+  background-color: #ff0000;
+  border: solid;
+  border-radius: 2px;
+  border-color: #999999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
